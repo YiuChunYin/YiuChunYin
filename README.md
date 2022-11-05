@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YiuChunYin
+- 👋 Hi, I’m Sam YIU
 - 👀 I’m interested in GIS and Machine Learning
 - 🌱 I’m currently learning scripting and data science
 - 💞️ I’m looking to collaborate on GIS projects
